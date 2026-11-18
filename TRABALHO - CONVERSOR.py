@@ -31,11 +31,6 @@ while True:
 
     opcao = int(input("Escolha uma das opções: "))
 
-
-
-
-
-
     if opcao == 1:
         print("\nEssa função converte celsius para fahrenheit\n")
         celsius = float(input("Digite a temperatura em Celsius: "))
